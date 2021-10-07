@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @princetomar
 - 👀 I’m an Flutter App Developer.
 - 🌱 I know Data Structures.
-- 💞️ I’m looking to collaborate on Hybrid App Projects.
+- 💞️ I’m looking forward to collaborate on Hybrid App Projects.
 - 📫 How to reach me via mail - tomarprince443@gmail.com
 
 <!---
