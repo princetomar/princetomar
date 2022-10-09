@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @princetomar
 - 👀 I’m an Flutter APP and Node js Developer.
 - 🌱 I have good knowledge of Data Structures.
-- 💞️ I’m looking forward to collaborate on Hybrid App Projects.
+- 💞️ I’m looking forward to collaborate on Android | IOS | WEB App Projects.
 - 📫 How to reach me via mail - tomarprince443@gmail.com
 
 <!---
