@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋 Hi, I’m @princetomar</h1>
 <h2 align="center">👀 I’m an Flutter APP, REACT, Node js Backend Developer.</h2>
 <h3 align="center">A passionate FLUTTER, REACT JS, AND NODE JS BACKEND developer from India</h3>
-<img src="https://devtechnosys.com/insights/wp-content/uploads/2023/07/Mobile-App-Development-Tools-GIF.gif" align="right" alt="Mobile App Development" width=450></img>
+<img src="https://devtechnosys.com/insights/wp-content/uploads/2023/07/Mobile-App-Development-Tools-GIF.gif" align="right" alt="Mobile App Development" width=400></img>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://devtechnosys.com/insights/wp-content/uploads/2023/07/Mobile-App-Development-Tools-GIF.gif " alt="princetomar" /></a> </p>
 
