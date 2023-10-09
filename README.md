@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **tomarprince443@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/princetomar/princetomarresume/blob/main/Prince%20Tomar%20resume.pdf](https://github.com/princetomar/princetomarresume/blob/main/Prince%20Tomar%20resume.pdf)
+- 📄 Know about my experiences [https://github.com/princetomar/princetomarresume/blob/main/Prince%20%20resume.pdf](https://github.com/princetomar/princetomarresume/blob/main/Prince%20%20resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
